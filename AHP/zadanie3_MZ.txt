@@ -1,0 +1,32 @@
+Macierze w komentarzu na poczatku pliku zadanie3_MZ.py
+
+                                        CENA
+
+Wektor wlasny dla C_cs (cena samochodu): [0.2352570310049227, 0.6365966699443909, 0.12814629905068642]
+
+Wektor wlasny dla C_zp (zuzycie paliwa): [0.2324117471676207, 0.1108567552770967, 0.6567314975552826]
+
+Wektor wlasny dla C_cena (macierz cena): [0.8333333333333334, 0.16666666666666669]
+
+Wynik dla samochodow wzgledem ceny: [0.23478282, 0.54897335, 0.21624383]
+
+                                        BEZPIECZENSTWO
+
+Wektor wlasny dla C_bez (bezpieczenstwo): [0.2969613312124973, 0.16342411856642786, 0.5396145502210749]
+
+                                        POJEMNOSC
+
+Wektor wlasny dla C_rb (rozmiar bagaznika): [0.4754567652135232, 0.21977553908471928, 0.30476769570175755]
+
+Wektor wlasny dla C_ip (ilosc pasazerow): [0.4000000000000001, 0.3999999999999999, 0.19999999999999998]
+
+Wektor wlasny dla C_poj (macierz pojemnosc): [0.25, 0.75]
+
+Wynik dla samochodow wzgledem pojemnosci: [0.41886419, 0.35494388, 0.22619192]
+
+                                        PODSUMOWANIE
+
+Wektor wlasny dla C_kat (podsumowanie kategorii): [0.6369855717447569, 0.2582849943744952, 0.10472943388074793]
+
+Wynik koncowy:[0.27012133, 0.42907117, 0.30080749]
+Najlepsza opcja dla podanych parametrow: 2
